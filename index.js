@@ -1,5 +1,5 @@
 {
-  "name" : 'text',
+  "name" : "text",
   "age" : 89,
-  man: true
+  "man": true
 }
