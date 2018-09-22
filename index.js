@@ -1,5 +1,5 @@
-const data = {
-  name: 'test',
-  age: 89,
-  exist: true
+{
+  "name" : 'text',
+  "age" : 89,
+  man: true
 }
